@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Default - English (Standard)]]>
+    </line>
+    <line>
+      <![CDATA[Albanian]]>
+    </line>
+    <line>
+      <![CDATA[Amharic]]>
+    </line>
+    <line>
+      <![CDATA[Arabic]]>
+    </line>
+    <line>
+      <![CDATA[Armenian]]>
+    </line>
+    <line>
+      <![CDATA[Bahasa Indonesia]]>
+    </line>
+    <line>
+      <![CDATA[Bengali]]>
+    </line>
+    <line>
+      <![CDATA[Bosnian]]>
+    </line>
+    <line>
+      <![CDATA[Chinese (Simplified)]]>
+    </line>
+    <line>
+      <![CDATA[Chinese (Traditional)]]>
+    </line>
+    <line>
+      <![CDATA[Croatian]]>
+    </line>
+    <line>
+      <![CDATA[Czech]]>
+    </line>
+    <line>
+      <![CDATA[Danish]]>
+    </line>
+    <line>
+      <![CDATA[dummy]]>
+    </line>
+    <line>
+      <![CDATA[Dutch]]>
+    </line>
+    <line>
+      <![CDATA[English (Indian)]]>
+    </line>
+    <line>
+      <![CDATA[English (Standard)]]>
+    </line>
+    <line>
+      <![CDATA[Estonian]]>
+    </line>
+    <line>
+      <![CDATA[Finnish]]>
+    </line>
+    <line>
+      <![CDATA[French (Canadian)]]>
+    </line>
+    <line>
+      <![CDATA[French (Standard)]]>
+    </line>
+    <line>
+      <![CDATA[Georgian]]>
+    </line>
+    <line>
+      <![CDATA[German]]>
+    </line>
+    <line>
+      <![CDATA[Greek]]>
+    </line>
+    <line>
+      <![CDATA[Hebrew]]>
+    </line>
+    <line>
+      <![CDATA[Hindi]]>
+    </line>
+    <line>
+      <![CDATA[Hungarian]]>
+    </line>
+    <line>
+      <![CDATA[Italian]]>
+    </line>
+    <line>
+      <![CDATA[Japanese]]>
+    </line>
+    <line>
+      <![CDATA[Korean]]>
+    </line>
+    <line>
+      <![CDATA[Lithuanian]]>
+    </line>
+    <line>
+      <![CDATA[Marathi]]>
+    </line>
+    <line>
+      <![CDATA[Mongolian]]>
+    </line>
+    <line>
+      <![CDATA[Norwegian]]>
+    </line>
+    <line>
+      <![CDATA[Persian]]>
+    </line>
+    <line>
+      <![CDATA[Polish]]>
+    </line>
+    <line>
+      <![CDATA[Portuguese (Brazilian)]]>
+    </line>
+    <line>
+      <![CDATA[Portuguese (European)]]>
+    </line>
+    <line>
+      <![CDATA[Romanian]]>
+    </line>
+    <line>
+      <![CDATA[Russian]]>
+    </line>
+    <line>
+      <![CDATA[Serbian]]>
+    </line>
+    <line>
+      <![CDATA[Sinhala]]>
+    </line>
+    <line>
+      <![CDATA[Slovak]]>
+    </line>
+    <line>
+      <![CDATA[Somali]]>
+    </line>
+    <line>
+      <![CDATA[Spanish (Latin American)]]>
+    </line>
+    <line>
+      <![CDATA[Spanish (Spain)]]>
+    </line>
+    <line>
+      <![CDATA[Swedish]]>
+    </line>
+    <line>
+      <![CDATA[Tamil]]>
+    </line>
+    <line>
+      <![CDATA[Thai]]>
+    </line>
+    <line>
+      <![CDATA[Turkish]]>
+    </line>
+    <line>
+      <![CDATA[Ukrainian]]>
+    </line>
+    <line>
+      <![CDATA[Urdu]]>
+    </line>
+    <line>
+      <![CDATA[Vietnamese]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-04T12:36:04 IST" name="Default suite" finished-at="2023-04-04T12:36:39 IST" duration-ms="34503">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T12:36:04 IST" name="Default test" finished-at="2023-04-04T12:36:39 IST" duration-ms="34503">
+      <class name="OMRHospitalLoginTest.OMRHospiatlLoginTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:04 IST" name="OpenBrowser" finished-at="2023-04-04T12:36:29 IST" duration-ms="24646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="verifiaction_of_TageLine_Of_LoginPage()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:29 IST" name="verifiaction_of_TageLine_Of_LoginPage" finished-at="2023-04-04T12:36:36 IST" duration-ms="6641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiaction_of_TageLine_Of_LoginPage -->
+        <test-method is-config="true" signature="getScreenShotOfFailedTestCase(org.testng.ITestResult)[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="getScreenShotOfFailedTestCase" finished-at="2023-04-04T12:36:36 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifiaction_of_TageLine_Of_LoginPage status=SUCCESS method=OMRHospiatlLoginTest.verifiaction_of_TageLine_Of_LoginPage()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShotOfFailedTestCase -->
+        <test-method signature="verificationOfLoginPage()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="verificationOfLoginPage" finished-at="2023-04-04T12:36:36 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificationOfLoginPage -->
+        <test-method is-config="true" signature="getScreenShotOfFailedTestCase(org.testng.ITestResult)[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="getScreenShotOfFailedTestCase" finished-at="2023-04-04T12:36:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verificationOfLoginPage status=SUCCESS method=OMRHospiatlLoginTest.verificationOfLoginPage()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShotOfFailedTestCase -->
+        <test-method signature="verification_OF_Password_Label()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="verification_OF_Password_Label" finished-at="2023-04-04T12:36:36 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification_OF_Password_Label -->
+        <test-method is-config="true" signature="getScreenShotOfFailedTestCase(org.testng.ITestResult)[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="getScreenShotOfFailedTestCase" finished-at="2023-04-04T12:36:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verification_OF_Password_Label status=SUCCESS method=OMRHospiatlLoginTest.verification_OF_Password_Label()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShotOfFailedTestCase -->
+        <test-method signature="verification_OF_UserName_Lable()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="verification_OF_UserName_Lable" finished-at="2023-04-04T12:36:36 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification_OF_UserName_Lable -->
+        <test-method is-config="true" signature="getScreenShotOfFailedTestCase(org.testng.ITestResult)[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="getScreenShotOfFailedTestCase" finished-at="2023-04-04T12:36:36 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verification_OF_UserName_Lable status=SUCCESS method=OMRHospiatlLoginTest.verification_OF_UserName_Lable()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShotOfFailedTestCase -->
+        <test-method signature="verification_of_all_languagesPresent()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:36 IST" name="verification_of_all_languagesPresent" finished-at="2023-04-04T12:36:38 IST" duration-ms="2168" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Default - English (Standard)]]>
+            </line>
+            <line>
+              <![CDATA[Albanian]]>
+            </line>
+            <line>
+              <![CDATA[Amharic]]>
+            </line>
+            <line>
+              <![CDATA[Arabic]]>
+            </line>
+            <line>
+              <![CDATA[Armenian]]>
+            </line>
+            <line>
+              <![CDATA[Bahasa Indonesia]]>
+            </line>
+            <line>
+              <![CDATA[Bengali]]>
+            </line>
+            <line>
+              <![CDATA[Bosnian]]>
+            </line>
+            <line>
+              <![CDATA[Chinese (Simplified)]]>
+            </line>
+            <line>
+              <![CDATA[Chinese (Traditional)]]>
+            </line>
+            <line>
+              <![CDATA[Croatian]]>
+            </line>
+            <line>
+              <![CDATA[Czech]]>
+            </line>
+            <line>
+              <![CDATA[Danish]]>
+            </line>
+            <line>
+              <![CDATA[dummy]]>
+            </line>
+            <line>
+              <![CDATA[Dutch]]>
+            </line>
+            <line>
+              <![CDATA[English (Indian)]]>
+            </line>
+            <line>
+              <![CDATA[English (Standard)]]>
+            </line>
+            <line>
+              <![CDATA[Estonian]]>
+            </line>
+            <line>
+              <![CDATA[Finnish]]>
+            </line>
+            <line>
+              <![CDATA[French (Canadian)]]>
+            </line>
+            <line>
+              <![CDATA[French (Standard)]]>
+            </line>
+            <line>
+              <![CDATA[Georgian]]>
+            </line>
+            <line>
+              <![CDATA[German]]>
+            </line>
+            <line>
+              <![CDATA[Greek]]>
+            </line>
+            <line>
+              <![CDATA[Hebrew]]>
+            </line>
+            <line>
+              <![CDATA[Hindi]]>
+            </line>
+            <line>
+              <![CDATA[Hungarian]]>
+            </line>
+            <line>
+              <![CDATA[Italian]]>
+            </line>
+            <line>
+              <![CDATA[Japanese]]>
+            </line>
+            <line>
+              <![CDATA[Korean]]>
+            </line>
+            <line>
+              <![CDATA[Lithuanian]]>
+            </line>
+            <line>
+              <![CDATA[Marathi]]>
+            </line>
+            <line>
+              <![CDATA[Mongolian]]>
+            </line>
+            <line>
+              <![CDATA[Norwegian]]>
+            </line>
+            <line>
+              <![CDATA[Persian]]>
+            </line>
+            <line>
+              <![CDATA[Polish]]>
+            </line>
+            <line>
+              <![CDATA[Portuguese (Brazilian)]]>
+            </line>
+            <line>
+              <![CDATA[Portuguese (European)]]>
+            </line>
+            <line>
+              <![CDATA[Romanian]]>
+            </line>
+            <line>
+              <![CDATA[Russian]]>
+            </line>
+            <line>
+              <![CDATA[Serbian]]>
+            </line>
+            <line>
+              <![CDATA[Sinhala]]>
+            </line>
+            <line>
+              <![CDATA[Slovak]]>
+            </line>
+            <line>
+              <![CDATA[Somali]]>
+            </line>
+            <line>
+              <![CDATA[Spanish (Latin American)]]>
+            </line>
+            <line>
+              <![CDATA[Spanish (Spain)]]>
+            </line>
+            <line>
+              <![CDATA[Swedish]]>
+            </line>
+            <line>
+              <![CDATA[Tamil]]>
+            </line>
+            <line>
+              <![CDATA[Thai]]>
+            </line>
+            <line>
+              <![CDATA[Turkish]]>
+            </line>
+            <line>
+              <![CDATA[Ukrainian]]>
+            </line>
+            <line>
+              <![CDATA[Urdu]]>
+            </line>
+            <line>
+              <![CDATA[Vietnamese]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verification_of_all_languagesPresent -->
+        <test-method is-config="true" signature="getScreenShotOfFailedTestCase(org.testng.ITestResult)[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:38 IST" name="getScreenShotOfFailedTestCase" finished-at="2023-04-04T12:36:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verification_of_all_languagesPresent status=SUCCESS method=OMRHospiatlLoginTest.verification_of_all_languagesPresent()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701] output=Default - English (Standard)]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreenShotOfFailedTestCase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:OMRHospitalLoginTest.OMRHospiatlLoginTest@3f6f6701]" started-at="2023-04-04T12:36:38 IST" name="closeBrowser" finished-at="2023-04-04T12:36:39 IST" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- OMRHospitalLoginTest.OMRHospiatlLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

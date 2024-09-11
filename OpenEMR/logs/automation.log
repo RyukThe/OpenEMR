@@ -1,0 +1,137 @@
+13:13:31.120 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+13:13:33.730 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+13:13:56.279 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+13:14:06.755 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+13:14:07.147 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+13:18:28.307 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+13:18:28.378 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+13:18:45.109 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+13:19:00.592 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+13:19:01.134 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+13:21:25.790 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+13:21:25.827 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+13:21:31.666 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+13:21:40.085 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+13:21:40.123 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+13:30:36.487 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+13:30:36.519 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+13:30:37.570 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+13:31:12.126 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+13:33:31.558 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+13:33:31.951 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:14:22.959 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:14:23.085 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:14:25.670 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:14:37.128 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:14:37.176 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:21:15.833 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:21:15.905 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:21:17.067 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:21:26.349 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:21:26.402 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:24:50.313 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:24:50.375 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:24:51.360 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:24:59.791 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:24:59.838 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:29:18.718 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:29:18.775 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:29:19.759 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:29:27.808 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:29:27.970 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:35:56.579 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:35:56.661 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:35:57.749 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:36:06.387 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:36:06.432 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:37:31.948 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:37:31.995 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:37:33.226 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:37:43.832 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:37:43.881 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:39:47.619 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:39:47.719 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:39:48.800 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:40:03.605 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:40:03.674 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:43:28.924 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:43:28.976 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:43:30.557 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:43:40.969 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:43:41.018 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:53:04.240 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:53:04.317 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:53:05.433 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:53:22.629 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:53:22.677 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+14:58:52.898 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+14:58:52.959 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+14:58:54.199 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+14:59:13.951 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+14:59:14.002 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:01:41.735 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:01:41.791 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:01:43.263 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:02:13.135 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:02:13.187 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:06:02.647 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:06:02.723 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:06:03.820 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:06:35.719 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:06:35.766 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:10:18.500 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:10:18.556 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:10:19.643 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:10:59.050 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:10:59.112 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:16:33.712 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:16:33.776 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:16:34.858 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:17:02.890 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:17:02.934 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:18:54.910 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:18:54.961 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:18:56.180 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:19:26.192 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:19:26.236 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:22:48.022 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:22:48.075 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:22:49.072 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:23:09.428 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:23:09.486 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:25:22.548 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:25:22.603 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:25:23.881 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:25:52.231 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:25:52.272 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:27:23.915 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:27:23.971 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:27:25.082 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:27:53.148 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:27:53.194 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:54:38.914 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:56:09.140 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:56:09.249 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:56:10.411 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:56:27.233 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:56:27.275 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+15:58:03.848 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+15:58:03.908 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+15:58:05.036 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+15:58:19.746 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+15:58:19.834 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+16:01:49.251 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+16:01:49.310 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+16:01:50.449 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+16:02:00.579 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+16:02:00.626 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+16:07:25.045 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+16:07:25.078 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+16:07:26.287 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+16:07:42.205 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+16:07:42.254 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
+16:09:57.636 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test -  ************ Application open **************
+16:09:57.703 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - *********** login in Application *************
+16:09:58.825 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********** verify tagline of OpenEMR ***************
+16:10:11.374 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Test Case Execution started ******************
+16:10:11.421 [main] INFO  ReceptionistModuleTest.Appointment_Scheduling1_Test - ********* Switch to iframe 
